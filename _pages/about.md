@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fifth-year (2019-now) Ph.D. candidate in the Department of Computer Science and Engineering at University of Notre Dame, supervised by [Prof. Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning, AI for Chemistry, Link Prediction, and Trustworthy AI.
 
-# 🌟 **News**
+# 🌟 **What's New**
 - 09/2022: One paper accepted by [NeurIPS 2023 Datasets and Benchmarks Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks).  
 - 06/2022: Thrilled to receive [IJCAI-23 Travel Grant](https://ijcai-23.org/ijcai-aij-2023-travel-and-accessibility-grant-program/). Thanks, IJCAI!  
 - 06/2022: Thrilled to be back at [Snap Inc.](https://research.snap.com/) for a summer internship.  
@@ -23,8 +23,8 @@ I am a fifth-year (2019-now) Ph.D. candidate in the Department of Computer Scien
 - 12/2022: Thrilled to receive [Snap Research Fellowship](https://research.snap.com/fellowships.html). Thanks, Snap!  
 - 11/2022: Two papers accepted by [LoG'22](https://logconference.org/).  
 - 11/2022: One paper accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/). See you in Washington DC!  
-- 10/2022: Two pre-print papers are on arXiv: 1.[Linkless Link Prediction via Relational Distillation](https://arxiv.org/pdf/2210.05801.pdf);  2.[Boosting Graph Neural Networks via Adaptive Knowledge Distillation](https://arxiv.org/pdf/2210.05920.pdf).  
+<!-- - 10/2022: Two pre-print papers are on arXiv: 1.[Linkless Link Prediction via Relational Distillation](https://arxiv.org/pdf/2210.05801.pdf);  2.[Boosting Graph Neural Networks via Adaptive Knowledge Distillation](https://arxiv.org/pdf/2210.05920.pdf).   -->
 - 08/2022: Thrilled to receive [IEEE VIS Inclusivity & Diversity Scholarship](https://ieeevis.org/year/2022/info/inclusion-and-diversity/diversity-scholarship)! Thanks VIS!  
 - 08/2022: One paper accepted by [CIKM'22](https://www.cikm2022.org/).  
-- 07/2022: Our survey [Graph-based Molecular Representation Learning](https://arxiv.org/pdf/2207.04869.pdf) is available.  
+<!-- - 07/2022: Our survey [Graph-based Molecular Representation Learning](https://arxiv.org/pdf/2207.04869.pdf) is available.   -->
 - 06/2022: Thrilled to start my summer internship at [Snap Inc.](https://research.snap.com/).
