@@ -26,7 +26,7 @@ redirect_from:
   + Research Assistant from Jul 2017 to Sep 2017
   + Advisor: Prof. Lei Shi
 
-# ✨ Honors \& Awards
+# ✨ Honors & Awards
 - 2023, NSF Center for Computer Assisted Synthesis Travel Award
 - 2023, IJCAI Travel Grant
 - 2023, SDM Student Travel Award
@@ -40,5 +40,5 @@ redirect_from:
 - 2016, EMC Scholarship for Outstanding Students 
 
 # 👓 Professional Services
-**Conference PC/Reviewer:** ICLR 2024, AAAI 2024, SDM 2024, LoG 2023, NeurIPS 2023, AAAI 2023, KDD 2023, IJCAI 2023, KDD 2022, ICDM 2022, IEEE VIS 2021   
-**Journal Reviewer:** TKDE, TKDD, TNNLS, DAMI, IEEE Transactions on Big Data, Digital Discovery, Neurocomputing, etc.
+- **Conference PC/Reviewer:** ICLR 2024, AAAI 2024, SDM 2024, LoG 2023, NeurIPS 2023, AAAI 2023, KDD 2023, IJCAI 2023, KDD 2022, ICDM 2022, IEEE VIS 2021   
+- **Journal Reviewer:** TKDE, TKDD, TNNLS, DAMI, IEEE Transactions on Big Data, Digital Discovery, Neurocomputing, etc.
