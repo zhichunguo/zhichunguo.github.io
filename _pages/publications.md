@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "📖 Selected Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+# 📖 **Selected Publications**
 ## **Journals**
 - On the Use of Real-World Datasets for Reaction Yield Prediction <button name="button" onclick="https://pubs.rsc.org/en/content/articlepdf/2023/sc/d2sc06041h">PDF</button>
   + Mandana Saebi, Bozhao Nan, John Herr, Jessica Wahlers, **Zhichun Guo**, Andrzej Zurański, Thierry Kogej, Per-Ola Norrby, Abigail Doyle, Olaf Wiest, Nitesh V. Chawla

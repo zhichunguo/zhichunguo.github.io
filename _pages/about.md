@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-**Hi, I am Zhichun Guo!**
-
-I am a fifth-year (2019-now) Ph.D. candidate in the Department of Computer Science and Engineering at University of Notre Dame, supervised by [Prof. Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning, AI for Chemistry, Link Prediction, and Trustworthy AI.
+# 🌱 **About Me**
+Hi, I'm Zhichun Guo! I am a fifth-year (2019-now) Ph.D. candidate in the Department of Computer Science and Engineering at University of Notre Dame, supervised by [Prof. Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning, AI for Chemistry, Link Prediction, and Trustworthy AI.
 
 # 🌟 **What's New**
 - 09/2022: One paper accepted by [NeurIPS 2023 Datasets and Benchmarks Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks).  
