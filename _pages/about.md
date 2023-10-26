@@ -29,5 +29,3 @@ I am a fifth-year (2019-now) Ph.D. candidate in the Department of Computer Scien
 - 07/2022: Our survey [Graph-based Molecular Representation Learning](https://arxiv.org/pdf/2207.04869.pdf) is available.  
 - 06/2022: Thrilled to start my summer internship at [Snap Inc.](https://research.snap.com/).
 
-# 📖 **Selected Publications**
-- 
