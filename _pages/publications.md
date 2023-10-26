@@ -6,7 +6,8 @@ author_profile: true
 ---
 # 📖 **Selected Publications**
 ## **Journals**
-- On the Use of Real-World Datasets for Reaction Yield Prediction <button name="button" onclick="https://pubs.rsc.org/en/content/articlepdf/2023/sc/d2sc06041h">PDF</button>
+- On the Use of Real-World Datasets for Reaction Yield Prediction [PDF](https://pubs.rsc.org/en/content/articlepdf/2023/sc/d2sc06041h){: .btn} 
+  <!-- <button name="button" onclick="https://pubs.rsc.org/en/content/articlepdf/2023/sc/d2sc06041h">PDF</button> -->
   + Mandana Saebi, Bozhao Nan, John Herr, Jessica Wahlers, **Zhichun Guo**, Andrzej Zurański, Thierry Kogej, Per-Ola Norrby, Abigail Doyle, Olaf Wiest, Nitesh V. Chawla
   + **[Chem. Sci'23]** Chemical Science, <span style="color:red">IF:9.97</span>, 2023
 - SD$^2$: Slicing and Dicing Scholarly Data for Interactive Evaluation of Academic Performance <button name="button" onclick="https://arxiv.org/pdf/2203.12671.pdf">PDF</button> <button name="button" onclick="https://github.com/zhichunguo/SD2">Code</button>
