@@ -23,8 +23,8 @@ author_profile: true
 - Graph-based Molecular Representation Learning [PDF](https://arxiv.org/pdf/2207.04869.pdf){: .btn}
   + **Zhichun Guo**, Kehan Guo, Bozhao Nan, Yijun Tian, Roshni G. Iyer, Yihong Ma, Olaf Wiest, Xiangliang Zhang, Wei Wang, Chuxu Zhang, Nitesh V. Chawla
   + **[IJCAI'23]** International Joint Conference on Artificial Intelligence Survey Track, 2023
-- Link Prediction with Non-contrastive Learning
-  + William Shiao, **Zhichun Guo**, Tong Zhao, Evangelos E. Papalexakis, Yozen Liu, Neil Shah [PDF](https://arxiv.org/pdf/2211.14394.pdf){: .btn}
+- Link Prediction with Non-contrastive Learning [PDF](https://arxiv.org/pdf/2211.14394.pdf){: .btn}
+  + William Shiao, **Zhichun Guo**, Tong Zhao, Evangelos E. Papalexakis, Yozen Liu, Neil Shah
   + **[ICLR'23]** International Conference on Learning Representations, 2023
 - Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency [PDF](https://openreview.net/pdf?id=Cs3r5KLdoj){: .btn}
   + Yijun Tian, Chuxu Zhang, **Zhichun Guo**, Xiangliang Zhang, Nitesh V. Chawla
