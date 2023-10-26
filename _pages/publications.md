@@ -14,7 +14,7 @@ author_profile: true
   + IEEE Transactions on Visualization and Computer Graphics, <span style="color:red">IF:5.23</span>, 2022
 
 ## **Conferences**
-- **[NeurIPS'23]** What Indeed Can GPT Models Do in Chemistry? A Comprehensive Benchmark on Eight Tasks [PDF](https://arxiv.org/pdf/2305.18365.pdf){: .btn} [Code](https://github.com/ChemFoundationModels/ChemLLMBench){: .btn}
+- **[NeurIPS'23]** What Indeed Can GPT Models Do in Chemistry? A Comprehensive Benchmark on Eight Tasks [PDF](https://arxiv.org/pdf/2305.18365.pdf){: .btn}
   + Taicheng Guo, Kehan Guo, Bozhao Nan, Zhenwen Liang, **Zhichun Guo**, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
   + Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2023
 - **[ICML'23]** Linkless Link Prediction via Relational Distillation [PDF](https://arxiv.org/pdf/2210.05801.pdf){: .btn} [Code](https://github.com/snap-research/linkless-link-prediction){: .btn}
