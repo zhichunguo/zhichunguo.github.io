@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "📖 Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-# 📖 **Selected Publications**
-
 ## **Journals**
 - On the Use of Real-World Datasets for Reaction Yield Prediction <button name="button" onclick="https://pubs.rsc.org/en/content/articlepdf/2023/sc/d2sc06041h">PDF</button>
   + Mandana Saebi, Bozhao Nan, John Herr, Jessica Wahlers, **Zhichun Guo**, Andrzej Zurański, Thierry Kogej, Per-Ola Norrby, Abigail Doyle, Olaf Wiest, Nitesh V. Chawla
@@ -47,7 +44,7 @@ author_profile: true
   + **Zhichun Guo**, Wenhao Yu, Chuxu Zhang, Meng Jiang, Nitesh V. Chawla
   + **[CIKM'20]** ACM International Conference on Information and Knowledge Management, 2020
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -55,4 +52,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

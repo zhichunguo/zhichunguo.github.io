@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Hi! I am Zhichun Guo!**
+**Hi, I am Zhichun Guo!**
 
 I am a fifth-year (2019-now) Ph.D. candidate in the Department of Computer Science and Engineering at University of Notre Dame, supervised by [Prof. Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning, AI for Chemistry, Link Prediction, and Trustworthy AI.
 
@@ -28,4 +28,3 @@ I am a fifth-year (2019-now) Ph.D. candidate in the Department of Computer Scien
 - 08/2022: One paper accepted by [CIKM'22](https://www.cikm2022.org/).  
 - 07/2022: Our survey [Graph-based Molecular Representation Learning](https://arxiv.org/pdf/2207.04869.pdf) is available.  
 - 06/2022: Thrilled to start my summer internship at [Snap Inc.](https://research.snap.com/).
-
