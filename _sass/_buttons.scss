@@ -6,148 +6,192 @@
    Default button
    ========================================================================== */
 
+// .btn {
+
+//   /* default button */
+//   display: inline-block;
+//   margin-bottom: 0.25em;
+//   padding: 0.5em 1em;
+//   color: #fff !important;
+//   font-family: $sans-serif;
+//   font-size: $type-size-6;
+//   font-weight: bold;
+//   text-align: center;
+//   text-decoration: none;
+//   background-color: $primary-color;
+//   border: 0 !important;
+//   border-radius: $border-radius;
+//   cursor: pointer;
+
+//   &:hover {
+//     background-color: mix(white, #000, 20%);
+//   }
+
+//   .icon {
+//     margin-right: 0.5em;
+//   }
+
+//   .icon + .hidden {
+//     margin-left: -0.5em; /* override for hidden text*/
+//   }
+
+//   /* fills width of parent container */
+
+//   &--block {
+//     display: block;
+//     width: 100%;
+
+//     + .btn--block {
+//       margin-top: 0.25em;
+//     }
+//   }
+
+//   /* for dark backgrounds */
+
+//   &--inverse {
+//     color: $gray !important;
+//     border: 1px solid $light-gray !important; /* override*/
+//     background-color: #fff;
+
+//     &:hover {
+//       color: #fff !important;
+//       border-color: $gray;
+//     }
+//   }
+
+//   /* light outline */
+
+//   &--light-outline {
+//     border: 1px solid #fff !important; /* override*/
+//     background-color: transparent;
+//   }
+
+//   /* information */
+
+//   &--info {
+//     background-color: $info-color;
+
+//     &:hover {
+//       background-color: mix(#000, $info-color, 20%);
+//     }
+//   }
+
+//   /* warning */
+
+//   &--warning {
+//     background-color: $warning-color;
+
+//     &:hover {
+//       background-color: mix(#000, $warning-color, 20%);
+//     }
+//   }
+
+//   /* success */
+
+//   &--success {
+//     background-color: $success-color;
+
+//     &:hover {
+//       background-color: mix(#000, $success-color, 20%);
+//     }
+//   }
+
+//   /* danger */
+
+//   &--danger {
+//     background-color: $danger-color;
+
+//     &:hover {
+//       background-color: mix(#000, $danger-color, 20%);
+//     }
+//   }
+
+//   /* disabled */
+
+//   &--disabled {
+//     pointer-events: none;
+//     cursor: not-allowed;
+//     filter: alpha(opacity=65);
+//     box-shadow: none;
+//     opacity: 0.65;
+//   }
+
+//   /* social buttons */
+
+//   $social:
+//   (facebook, $facebook-color),
+//   (twitter, $twitter-color),
+//   (google-plus, $google-plus-color),
+//   (linkedin, $linkedin-color);
+
+//   @each $socialnetwork, $color in $social {
+//     &--#{$socialnetwork} {
+//       background-color: $color;
+
+//       &:hover {
+//         background-color: mix(#000, $color, 20%);
+//       }
+//     }
+//   }
+
+//   /* extra large button */
+
+//   &--x-large {
+//     font-size: $type-size-4;
+//   }
+
+//   /* large button */
+
+//   &--large {
+//     font-size: $type-size-5;
+//   }
+
+//   /* small button */
+
+//   &--small {
+//     font-size: $type-size-7;
+//   }
+// }
+
+/* CSS */
 .btn {
-  /* default button */
+  background-color: #e1ecf4;
+  border-radius: 3px;
+  border: 1px solid #7aa7c7;
+  box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #39739d;
+  cursor: pointer;
   display: inline-block;
-  margin-bottom: 0.25em;
-  padding: 0.5em 1em;
-  color: #fff !important;
-  font-family: $sans-serif;
-  font-size: $type-size-6;
-  font-weight: bold;
+  font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.15385;
+  margin: 0;
+  outline: none;
+  padding: 8px .8em;
+  position: relative;
   text-align: center;
   text-decoration: none;
-  background-color: $primary-color;
-  border: 0 !important;
-  border-radius: $border-radius;
-  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
 
-  &:hover {
-    background-color: mix(white, #000, 20%);
-  }
+.btn:hover,
+.btn:focus {
+  background-color: #b3d3ea;
+  color: #2c5777;
+}
 
-  .icon {
-    margin-right: 0.5em;
-  }
+.btn:focus {
+  box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
 
-  .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
-  }
-
-  /* fills width of parent container */
-
-  &--block {
-    display: block;
-    width: 100%;
-
-    + .btn--block {
-      margin-top: 0.25em;
-    }
-  }
-
-  /* for dark backgrounds */
-
-  &--inverse {
-    color: $gray !important;
-    border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
-
-    &:hover {
-      color: #fff !important;
-      border-color: $gray;
-    }
-  }
-
-  /* light outline */
-
-  &--light-outline {
-    border: 1px solid #fff !important; /* override*/
-    background-color: transparent;
-  }
-
-  /* information */
-
-  &--info {
-    background-color: $info-color;
-
-    &:hover {
-      background-color: mix(#000, $info-color, 20%);
-    }
-  }
-
-  /* warning */
-
-  &--warning {
-    background-color: $warning-color;
-
-    &:hover {
-      background-color: mix(#000, $warning-color, 20%);
-    }
-  }
-
-  /* success */
-
-  &--success {
-    background-color: $success-color;
-
-    &:hover {
-      background-color: mix(#000, $success-color, 20%);
-    }
-  }
-
-  /* danger */
-
-  &--danger {
-    background-color: $danger-color;
-
-    &:hover {
-      background-color: mix(#000, $danger-color, 20%);
-    }
-  }
-
-  /* disabled */
-
-  &--disabled {
-    pointer-events: none;
-    cursor: not-allowed;
-    filter: alpha(opacity=65);
-    box-shadow: none;
-    opacity: 0.65;
-  }
-
-  /* social buttons */
-
-  $social:
-  (facebook, $facebook-color),
-  (twitter, $twitter-color),
-  (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
-
-  @each $socialnetwork, $color in $social {
-    &--#{$socialnetwork} {
-      background-color: $color;
-
-      &:hover {
-        background-color: mix(#000, $color, 20%);
-      }
-    }
-  }
-
-  /* extra large button */
-
-  &--x-large {
-    font-size: $type-size-4;
-  }
-
-  /* large button */
-
-  &--large {
-    font-size: $type-size-5;
-  }
-
-  /* small button */
-
-  &--small {
-    font-size: $type-size-7;
-  }
+.btn:active {
+  background-color: #a0c7e4;
+  box-shadow: none;
+  color: #2c5777;
 }
