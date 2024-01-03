@@ -8,15 +8,15 @@ redirect_from:
 ---
 <!-- {% include base_path %} -->
 # 📚 Education
-- Jan 2020 - _Present_ : Ph.D. Student of Computer Science and Engineering, University of Notre Dame
-- Aug 2019 - Jan 2020 : M.S. Student of Computer Science and Engineering, University of Notre Dame
+- Aug 2019 - _Present_ : Ph.D. Student of Computer Science and Engineering, University of Notre Dame
+<!-- - Aug 2019 - Jan 2020 : M.S. Student of Computer Science and Engineering, University of Notre Dame -->
 - Aug 2014 - Jul 2019 : B.S. Student of Computer Science and Technology, Fudan University
 
 # 🧐 Internships
-- Snap Inc., Seattle, IN, US
+- Snap Inc., Seattle, WA, US
   + Research Intern from June 2023 to Sept 2023
   + Mentor: Dr. Neil Shah and Dr. Tong Zhao
-- Snap Inc., Seattle, IN, US
+- Snap Inc., Seattle, WA, US
   + Research Intern from June 2022 to Nov 2022
   + Mentor: Dr. Neil Shah and Dr. Tong Zhao
 - University of Notre Dame, Notre Dame, IN, US
