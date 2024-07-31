@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhichun Guo's Homepage"
 title_separator          : "-"
 name                     : &name "Zhichun Guo"
-description              : &description "Fifth-year Ph.D. Student at University of Notre Dame"
+description              : &description "Incoming Assistant Professor in Computer Science @ Emory University"
 url                      : https://zhichunguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhichunguo.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhichun Guo"
   avatar           : "profile.png"
-  bio              : "Fifth-year Ph.D. Student @ University of Notre Dame"
-  location         : "Notre Dame, IN, USA"
+  bio              : "Incoming Assistant Professor in Computer Science @ Emory University"
+  location         : "Seattle, WA, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=BOFfWR0AAAAJ&hl=en&oi=ao"
-  email            : "zguo5@nd.edu"
+  email            : "zcguo@uw.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zhichun-guo-437aba148/"
   orcid            : 
   pinterest        :
   soundcloud       :

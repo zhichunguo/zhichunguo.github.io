@@ -7,12 +7,14 @@ redirect_from:
   - /resume
 ---
 <!-- {% include base_path %} -->
-# 📚 Education
-- Aug 2019 - _Present_ : Ph.D. Student of Computer Science and Engineering, University of Notre Dame
-<!-- - Aug 2019 - Jan 2020 : M.S. Student of Computer Science and Engineering, University of Notre Dame -->
+## CV
+Please kindly find my full resume [here](/files/Zhichun_CV.pdf).
+
+## Education
+- Aug 2019 - May 2024 : Ph.D. Student of Computer Science and Engineering, University of Notre Dame
 - Aug 2014 - Jul 2019 : B.S. Student of Computer Science and Technology, Fudan University
 
-# 🧐 Internships
+<!-- # Internships
 - Snap Inc., Seattle, WA, US
   + Research Intern from June 2023 to Sept 2023
   + Mentor: Dr. Neil Shah and Dr. Tong Zhao
@@ -24,9 +26,9 @@ redirect_from:
   + Advisor: Prof. Chaoli Wang
 - Chinese Academy of Sciences, Beijing, China
   + Research Assistant from Jul 2017 to Sep 2017
-  + Advisor: Prof. Lei Shi
+  + Advisor: Prof. Lei Shi -->
 
-# ✨ Honors & Awards
+## Honors & Awards
 - 2023, NSF Center for Computer Assisted Synthesis Travel Award
 - 2023, IJCAI Travel Grant
 - 2023, SDM Student Travel Award
@@ -39,6 +41,6 @@ redirect_from:
 - 2017, First Prize Scholarship for Outstanding Students
 - 2016, EMC Scholarship for Outstanding Students 
 
-# 👓 Professional Services
+<!-- # 👓 Professional Services
 - **Conference PC/Reviewer:** ICLR 2024, AAAI 2024, SDM 2024, LoG 2023, NeurIPS 2023, AAAI 2023, KDD 2023, IJCAI 2023, KDD 2022, ICDM 2022, IEEE VIS 2021   
-- **Journal Reviewer:** TKDE, TKDD, TNNLS, DAMI, IEEE Transactions on Big Data, Digital Discovery, Neurocomputing, etc.
+- **Journal Reviewer:** TKDE, TKDD, TNNLS, DAMI, IEEE Transactions on Big Data, Digital Discovery, Neurocomputing, etc. -->

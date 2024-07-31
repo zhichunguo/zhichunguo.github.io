@@ -4,8 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# 📖 **Selected Publications**
-## **Journals**
+## 📖 **Selected Publications**
+Please kindly find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=BOFfWR0AAAAJ&hl=en&oi=ao).
+### **Journals**
 - **[Chem. Sci'23]** On the Use of Real-World Datasets for Reaction Yield Prediction [PDF](https://pubs.rsc.org/en/content/articlepdf/2023/sc/d2sc06041h){: .btn} 
   + Mandana Saebi, Bozhao Nan, John Herr, Jessica Wahlers, **Zhichun Guo**, Andrzej Zurański, Thierry Kogej, Per-Ola Norrby, Abigail Doyle, Olaf Wiest, Nitesh V. Chawla
   + Chemical Science, <span style="color:red">IF:9.97</span>, 2023
@@ -13,7 +14,7 @@ author_profile: true
   + **Zhichun Guo**, Jun Tao, Siming Chen, Nitesh V. Chawla, Chaoli Wang
   + IEEE Transactions on Visualization and Computer Graphics, <span style="color:red">IF:5.23</span>, 2022
 
-## **Conferences**
+### **Conferences**
 - **[NeurIPS'23]** What Indeed Can GPT Models Do in Chemistry? A Comprehensive Benchmark on Eight Tasks [PDF](https://arxiv.org/pdf/2305.18365.pdf){: .btn}
   + Taicheng Guo, Kehan Guo, Bozhao Nan, Zhenwen Liang, **Zhichun Guo**, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
   + Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2023
