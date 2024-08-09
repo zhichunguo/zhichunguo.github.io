@@ -19,9 +19,12 @@ My research interests span artificial intelligence, machine learning, and data s
 - 07/2024: Excited to start my PostDoc at [Baker Lab](https://www.bakerlab.org/)@UW.
 - 05/2024: Thrilled to receive my Ph.D. degree from CS@Notre Dame. Deeply appreciate the acknowledgement!
 - 03/2024: Thrilled to pass my Ph.D. Defense.
+- 03/2024: Delighted to give an invited talk at CS@Emory University.
 - 03/2024: Delighted to give an invited talk at CS@Michigan State University.
 - 02/2024: Delighted to give an invited talk at CS@UT Dallas.
-- 02/2024: Delighted to give an invited [talk](https://website.cs.vt.edu/research/Seminars/Zhichun_Guo.html) at CS@Virginia Tech. 
+- 02/2024: Delighted to give an invited [talk](https://website.cs.vt.edu/research/Seminars/Zhichun_Guo.html) at CS@Virginia Tech.
+- 02/2024: Delighted to give an invited talk at CS@Florida State University.
+- 02/2024: Delighted to give an invited talk at CS@University of Houston.
 - 09/2023: One paper accepted by [NeurIPS 2023 Datasets and Benchmarks Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks).  
 <details>
 <summary>More</summary>
