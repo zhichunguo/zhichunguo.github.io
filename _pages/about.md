@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## **About Me**
+# **About Me**
 Hi, I'm Zhichun Guo! I am currently a postdoctoral researcher at [Baker Lab](https://www.bakerlab.org/) at the University of Washington. <span style="color:red">In Fall 2025, I will be joining the Department of Computer Science at Emory University as a tenure-track assistant professor. </span> I received my Ph.D. from the Department of Computer Science and Engineering at the University of Notre Dame in May 2024, where I was advised by [Prof. Nitesh Chawla](https://niteshchawla.nd.edu/) (ACM/IEEE/AAAI Fellow). Before that, I earned my bachelor's degree in Computer Science from Fudan University.
 
 My research interests span artificial intelligence, machine learning, and data science. During my Ph.D., I focused on enhancing graph neural networks for real-world applications, particularly in chemistry and link prediction tasks. Recently, I've begun exploring large language models (LLMs) and machine learning models for broader scientific applications, such as bioinformatics.
@@ -19,12 +19,12 @@ My research interests span artificial intelligence, machine learning, and data s
 - 07/2024: Excited to start my PostDoc at [Baker Lab](https://www.bakerlab.org/)@UW.
 - 05/2024: Thrilled to receive my Ph.D. degree from CS@Notre Dame. Deeply appreciate the acknowledgement!
 - 03/2024: Thrilled to pass my Ph.D. Defense.
-<!-- - 03/2024: Delighted to give an invited talk at CS@Emory University.
+- 03/2024: Delighted to give an invited talk at CS@Emory University.
 - 03/2024: Delighted to give an invited talk at CS@Michigan State University.
 - 02/2024: Delighted to give an invited talk at CS@UT Dallas.
 - 02/2024: Delighted to give an invited [talk](https://website.cs.vt.edu/research/Seminars/Zhichun_Guo.html) at CS@Virginia Tech.
 - 02/2024: Delighted to give an invited talk at CS@Florida State University.
-- 02/2024: Delighted to give an invited talk at CS@University of Houston. -->
+- 02/2024: Delighted to give an invited talk at CS@University of Houston.
 - 09/2023: One paper accepted by [NeurIPS 2023 Datasets and Benchmarks Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks).  
 <details>
 <summary>More</summary>
