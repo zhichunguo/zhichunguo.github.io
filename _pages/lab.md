@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Lab/
+permalink: /lab/
 author_profile: true
 ---
 ### About
