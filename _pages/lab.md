@@ -4,7 +4,7 @@ title: ""
 permalink: /lab/
 author_profile: true
 ---
-### About
+## About
 
 My research lab at Emory University focuses on advancing cutting-edge research in artificial intelligence, machine learning, and data mining. Our current areas of emphasis include:
 
@@ -14,10 +14,7 @@ My research lab at Emory University focuses on advancing cutting-edge research i
 - **Trustworthy AI:** enhancing the fairness and explainability of AI models
 - ...
 
-
----
-
-### Available Positions
+## Available Positions
 
  I have multiple fully funded Ph.D. positions available starting in Fall 2025, along with research internship opportunities. If you are interested, please feel free to send your CV and transcripts to me at zcguo[at]uw[dot]edu. You are also welcome to include a personal statement if you would like to share any additional information. Please remember to submit your formal application through the [official system](https://computerscience.emory.edu/graduate-phd/admissions/index.html) as well.
 
@@ -41,4 +38,4 @@ My research lab at Emory University focuses on advancing cutting-edge research i
 
 --- 
 
-To be continued...
+<span style="color:gray">To be continued...</span>
