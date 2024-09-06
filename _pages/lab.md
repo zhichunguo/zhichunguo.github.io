@@ -16,7 +16,7 @@ My research lab at Emory University focuses on advancing cutting-edge research i
 
 ## Available Positions
 
- I have multiple fully funded Ph.D. positions available starting in Fall 2025, along with research internship opportunities. If you are interested, please feel free to send your CV and transcripts to me at zcguo[at]uw[dot]edu. You are also welcome to include a personal statement if you would like to share any additional information. Please remember to submit your formal application through the [official system](https://computerscience.emory.edu/graduate-phd/admissions/index.html) as well. I will make sure to review each email you send, but I might not be able to respond to all of them. Thanks your understanding!
+ I have multiple fully funded Ph.D. positions available starting in Fall 2025, along with research internship opportunities. If you are interested, please feel free to send your CV and transcripts to me at zcguo[at]uw[dot]edu. You are also welcome to include a personal statement if you would like to share any additional information. Please remember to submit your formal application through the [official system](https://computerscience.emory.edu/graduate-phd/admissions/index.html) as well. I will make sure to carefully read each email you send, but I might not be able to respond to all of them. Thanks your understanding!
 
 **What I expect from you:**
 - Self-motivated, hard-working and honest
