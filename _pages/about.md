@@ -16,6 +16,8 @@ My research interests span artificial intelligence, machine learning, and data s
 
 
 ## **News**
+- 09/2024: One paper accepted by [NeurIPS 2024 Datasets and Benchmarks Track](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks) on LLMs for chemistry.
+- 09/2024: Two papers accepted by [NeurIPS 2024](https://neurips.cc/Conferences/2024) on [link prediction](https://arxiv.org/pdf/2309.00976) and [recsys](https://arxiv.org/pdf/2404.08660). 
 - 07/2024: Excited to start my PostDoc at [Baker Lab](https://www.bakerlab.org/)@UW.
 - 05/2024: Thrilled to receive my Ph.D. degree from CS@Notre Dame. Deeply appreciate the acknowledgement!
 - 03/2024: Thrilled to pass my Ph.D. Defense.

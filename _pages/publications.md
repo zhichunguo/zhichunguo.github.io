@@ -15,6 +15,15 @@ Please kindly find my full publication list on [Google Scholar](https://scholar.
   + IEEE Transactions on Visualization and Computer Graphics, <span style="color:red">IF:5.23</span>, 2022
 
 ### **Conferences**
+- **[NeurIPS'24]** Pure Message Passing Can Estimate Common Neighbor for Link Prediction [PDF](https://arxiv.org/pdf/2309.00976){: .btn}
+  + Kaiwen Dong, **Zhichun Guo**, Nitesh V Chawla
+  + Conference on Neural Information Processing Systems, 2024
+- **[NeurIPS'24]** Test-time Aggregation for Collaborative Filtering [PDF](https://arxiv.org/pdf/2404.08660){: .btn}
+  + Mingxuan Ju, William Shiao, **Zhichun Guo**, Yanfang Ye, Yozen Liu, Neil Shah, Tong Zhao
+  + Conference on Neural Information Processing Systems, 2024
+- **[NeurIPS'24]** Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation 
+  + Kehan Guo, Bozhao Nan, Yujun Zhou, Taicheng Guo, **Zhichun Guo**, Mihir Surve, Zhenwen Liang, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang
+  + Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2024
 - **[NeurIPS'23]** What Indeed Can GPT Models Do in Chemistry? A Comprehensive Benchmark on Eight Tasks [PDF](https://arxiv.org/pdf/2305.18365.pdf){: .btn}
   + Taicheng Guo, Kehan Guo, Bozhao Nan, Zhenwen Liang, **Zhichun Guo**, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
   + Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2023
