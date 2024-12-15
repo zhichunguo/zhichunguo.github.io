@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # **About Me**
-Hi, I'm Zhichun Guo! I am currently a postdoctoral researcher at [Baker Lab](https://www.bakerlab.org/) at the University of Washington. <span style="color:red">In Fall 2025, I will be joining the Department of Computer Science at Emory University as a tenure-track assistant professor. </span> I received my Ph.D. from the Department of Computer Science and Engineering at the University of Notre Dame in May 2024, where I was advised by [Prof. Nitesh Chawla](https://niteshchawla.nd.edu/) (ACM/IEEE/AAAI Fellow). Before that, I earned my bachelor's degree in Computer Science from Fudan University.
+Hi, I'm Zhichun Guo! I am currently a postdoctoral researcher working with [Prof. David Baker](https://www.ipd.uw.edu/david-baker/) at the University of Washington. <span style="color:red">In Fall 2025, I will be joining the Department of Computer Science at Emory University as a tenure-track assistant professor. </span> I received my Ph.D. from the Department of Computer Science and Engineering at the University of Notre Dame in May 2024, where I was advised by [Prof. Nitesh Chawla](https://niteshchawla.nd.edu/). Before that, I earned my bachelor's degree in Computer Science from Fudan University.
 
 My research interests span artificial intelligence, machine learning, and data science. During my Ph.D., I focused on enhancing graph neural networks for real-world applications, particularly in chemistry and link prediction tasks. Recently, I've begun exploring large language models (LLMs) and machine learning models for broader scientific applications, such as bioinformatics.
 
