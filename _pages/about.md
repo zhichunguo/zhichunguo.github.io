@@ -16,7 +16,9 @@ My research interests span artificial intelligence, machine learning, and data s
 
 
 ## **News**
-- 09/2024: One paper accepted by [NeurIPS 2024 Datasets and Benchmarks Track](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks) on LLMs for chemistry.
+- 04/2025: One paper accepted by [IJCAI 2025 Survey Track](https://2025.ijcai.org/call-for-papers-survey-track/) on [AI for chemistry](https://arxiv.org/pdf/2502.09897). 
+- 03/2025: We are organizing a [KDD 2025](https://kdd2025.kdd.org/) workshop on [Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI)](https://mlgraphworkshop.github.io/)! See you in Toronto!
+- 09/2024: One paper accepted by [NeurIPS 2024 Datasets and Benchmarks Track](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks) on [LLMs for chemistry](https://proceedings.neurips.cc/paper_files/paper/2024/file/f2b9e8e7a36d43ddfd3d55113d56b1e0-Paper-Datasets_and_Benchmarks_Track.pdf).
 - 09/2024: Two papers accepted by [NeurIPS 2024](https://neurips.cc/Conferences/2024) on [link prediction](https://arxiv.org/pdf/2309.00976) and [recsys](https://arxiv.org/pdf/2404.08660). 
 - 07/2024: Excited to start my PostDoc at [Baker Lab](https://www.bakerlab.org/)@UW.
 - 05/2024: Thrilled to receive my Ph.D. degree from CS@Notre Dame. Deeply appreciate the acknowledgement!

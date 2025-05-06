@@ -15,6 +15,9 @@ Please kindly find my full publication list on [Google Scholar](https://scholar.
   + IEEE Transactions on Visualization and Computer Graphics, <span style="color:red">IF:5.23</span>, 2022
 
 ### **Conferences**
+- **[IJCAI'25]** Artificial Intelligence in Spectroscopy: Advancing Chemistry from Prediction to Generation and Beyond [PDF](https://arxiv.org/pdf/2502.09897){: .btn}
+  + Kehan Guo, Yili Shen, Gisela Abigail Gonzalez-Montiel, Yue Huang, Yujun Zhou, Mihir Surve, **Zhichun Guo**, Prayel Das, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
+  + International Joint Conference on Artificial Intelligence Survey Track, 2025
 - **[NeurIPS'24]** Pure Message Passing Can Estimate Common Neighbor for Link Prediction [PDF](https://arxiv.org/pdf/2309.00976){: .btn}
   + Kaiwen Dong, **Zhichun Guo**, Nitesh V Chawla
   + Conference on Neural Information Processing Systems, 2024
