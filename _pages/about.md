@@ -12,7 +12,7 @@ Hi, I'm Zhichun Guo! I am currently a postdoctoral researcher working with [Prof
 
 My research interests span artificial intelligence, machine learning, and data science. During my Ph.D., I focused on enhancing graph neural networks for real-world applications, particularly in chemistry and link prediction tasks. Recently, I've begun exploring large language models (LLMs) and machine learning models for broader scientific applications, such as bioinformatics.
 
-<span style="color:red">[Prospective PhD Students and Interns]</span> I am actively seeking highly-motivated Ph.D. students and interns to work on machine learning and AI4Science problems. If you are interested in working with me, please send me an email at zcguo[at]uw[dot]edu with your CV, transcripts, and a brief introduction of your research interests and experience.
+<span style="color:red">[Prospective PhD Students and Interns]</span> I am actively seeking highly-motivated Ph.D. students and interns to work on machine learning and AI4Science problems. If you are interested in working with me, please send me an email at zhichun[dot]guo[at]emory[dot]edu with your CV, transcripts, and a brief introduction of your research interests and experience.
 
 
 ## **News**
